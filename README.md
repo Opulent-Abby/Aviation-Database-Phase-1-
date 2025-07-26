@@ -60,7 +60,6 @@ Explore my dashboard for more visual information.
 https://public.tableau.com/app/profile/abigael.musyoka/viz/AnalysingAircraftsGuideforSaferInvestmentDecisions-OpulentAbby/AviationSafetyRiskDashboardAnalyzingaircraftmakepurposeandenginetypetoguidesaferinvestmentdecisions_?publish=yes
 
 
-
 ## Conclusion
 
 ### Summary of Findings
@@ -78,6 +77,44 @@ https://public.tableau.com/app/profile/abigael.musyoka/viz/AnalysingAircraftsGui
 
 
 ## Repository Structure
+├── README.md # This project overview
+├── aviation_clean.csv # Cleaned dataset used for Tableau
+├── aviation_notebook_final.ipynb # Final Jupyter Notebook with analysis
+├── presentation.pdf # Business-facing slide deck
+├── .gitignore # Files to ignore in version control
+
+
+---
+
+## Version Control & Collaboration
+
+This repository includes a clean commit history showing the progression from data cleaning to visualization and dashboard development.
+
+- ✅ Clear and descriptive commit messages
+- 📅 Regular updates throughout the project timeline
+- 👥 Prepared for individual or group collaboration
+
+
+
+## .gitignore
+
+A `.gitignore` file is included at the root to prevent unnecessary files from being pushed, such as:
+- System files (e.g., `.DS_Store`)
+- Environment files
+- Large raw data files
+
+The base file was adapted from GitHub’s recommended [Python .gitignore](https://github.com/github/gitignore/blob/main/Python.gitignore).
+
+---
+
+##  Author
+
+**Created by**: ABIGAEL NZIVU MUSYOKA  
+**Connect**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+**Dashboard**: [View Tableau Public Dashboard]https://public.tableau.com/app/profile/abigael.musyoka/viz/AnalysingAircraftsGuideforSaferInvestmentDecisions-OpulentAbby/AviationSafetyRiskDashboardAnalyzingaircraftmakepurposeandenginetypetoguidesaferinvestmentdecisions_?publish=yes
+
+---
+
 
 
 
