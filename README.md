@@ -5,7 +5,6 @@
 
 This project analyzes civil aviation accident data from the National Transportation Safety Board (NTSB) between 1962 and 2023. The objective is to provide actionable insights that guide safe investment decisions as a company expands into the aviation sector. Through data cleaning, analysis, and interactive visualization, this project identifies patterns in accident severity across different aircraft makes, engine types, and flight purposes.
 
----
 
 ## Business Understanding
 
@@ -20,7 +19,7 @@ To identify the safest aircraft for purchase and operation by evaluating histori
 - Are certain types of flight operations (e.g., personal vs. commercial) more dangerous?
 - Do specific engine types correlate with higher accident severity?
 
----
+
 
 ## Data Understanding & Analysis
 
@@ -40,7 +39,6 @@ The dataset includes fields such as:
 
 After initial inspection, the dataset was cleaned to remove null values in critical fields and grouped logically to support analysis of fatality patterns.
 
----
 
 ## Key Visualizations
 
@@ -77,22 +75,22 @@ https://public.tableau.com/app/profile/abigael.musyoka/viz/AnalysingAircraftsGui
 
 
 ## Repository Structure
-├── README.md # This project overview
-├── aviation_clean.csv # Cleaned dataset used for Tableau
-├── aviation_notebook_final.ipynb # Final Jupyter Notebook with analysis
-├── presentation.pdf # Business-facing slide deck
-├── .gitignore # Files to ignore in version control
+ README.md # This project overview
+aviation_clean.csv # Cleaned dataset used for Tableau
+aviation_notebook_final.ipynb # Final Jupyter Notebook with analysis
+presentation.pdf # Business-facing slide deck
+.gitignore # Files to ignore in version control
 
 
----
+
 
 ## Version Control & Collaboration
 
 This repository includes a clean commit history showing the progression from data cleaning to visualization and dashboard development.
 
-- ✅ Clear and descriptive commit messages
-- 📅 Regular updates throughout the project timeline
-- 👥 Prepared for individual or group collaboration
+- Clear and descriptive commit messages
+- Regular updates throughout the project timeline
+ -Prepared for individual or group collaboration
 
 
 
@@ -105,12 +103,11 @@ A `.gitignore` file is included at the root to prevent unnecessary files from be
 
 The base file was adapted from GitHub’s recommended [Python .gitignore](https://github.com/github/gitignore/blob/main/Python.gitignore).
 
----
+
 
 ##  Author
 
-**Created by**: ABIGAEL NZIVU MUSYOKA  
-**Connect**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+**Created by**: ABIGAEL NZIVU MUSYOKA    
 **Dashboard**: [View Tableau Public Dashboard]https://public.tableau.com/app/profile/abigael.musyoka/viz/AnalysingAircraftsGuideforSaferInvestmentDecisions-OpulentAbby/AviationSafetyRiskDashboardAnalyzingaircraftmakepurposeandenginetypetoguidesaferinvestmentdecisions_?publish=yes
 
 ---
